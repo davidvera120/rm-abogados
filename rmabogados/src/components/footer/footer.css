@@ -1,0 +1,96 @@
+footer{
+    background:#e6e6e6;
+  
+   width:100%;
+  margin:0;
+   padding:0px;
+   margin-top:50px;
+  }
+
+  .imgFooter{
+height:100px;
+
+  }
+
+  .horario{
+    font-size:15px;
+   color:#252525;
+
+  }
+
+  .cardsF{
+    display:flex;
+    text-align:center;
+    justify-content: space-evenly;
+    width:95%;
+    margin:0 auto;
+    flex-wrap:wrap;
+   gap:10px;
+   align-items:center;
+}
+
+.infoBack{
+    background:rgb(0,0,0, 0.1);
+}
+
+.infoFooter{
+    display:flex;
+    align-items:center;
+    
+   text-align:left;
+    gap:5px;
+}
+
+.infoFooter2{
+    display:flex; 
+   text-align:left;
+    gap:5px;
+}
+
+.cardsFooter{
+   
+    width:400px;
+   padding-bottom:10px;
+   text-align:center;
+    justify-content: center;
+    padding:6px;
+}
+
+.cardsFooterCenter{
+   
+    width:400px;
+   padding-bottom:10px;
+   text-align:center;
+    justify-content: center;
+    padding:6px;
+    border-left: 1.5px solid rgb(75, 149, 0);
+}
+
+.maps{
+    border:0;
+    border-radius:5px;
+    width:100px; 
+    height:80px
+}
+
+@media (max-width: 500px) {
+
+    .cardsFooter{
+        width:350px;
+       
+        
+       text-align:center;
+        justify-content: center;
+        padding:6px;
+    }
+
+   h6{
+        font-size:16px;
+        
+        }
+        
+    
+
+      
+
+}

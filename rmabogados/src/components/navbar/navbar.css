@@ -1,0 +1,18 @@
+.navbar{
+    background-color:#e6e6e6;
+}
+
+img{
+    height:80px;
+}
+
+.dropdown-menu{
+width: 290px;
+padding-left:10px;
+padding-right:10px;
+}
+
+.drop-item{
+border-bottom: 1px solid #ccc;
+}
+

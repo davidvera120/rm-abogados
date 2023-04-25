@@ -1,0 +1,15 @@
+.buttons{
+    background:none; 
+    border:none;
+}
+
+.titleModal{
+text-align:center;
+justify-content:center;
+margin: 0 auto;
+color:#666666;
+}
+
+.titleForm{
+    color:#666666;
+}

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df23dc60.css",
+    "main.js": "/static/js/main.91db078e.js",
+    "static/media/bannerS.jpeg": "/static/media/bannerS.a18a4adfa205f5194ac5.jpeg",
+    "static/media/logorm.png": "/static/media/logorm.2d32a0e317f13e6a206a.png",
+    "static/media/bannerFirma.png": "/static/media/bannerFirma.a13fed5c74bf96710a37.png",
+    "static/media/comercial.jpeg": "/static/media/comercial.1811f2ac9116fc928b7a.jpeg",
+    "static/media/victimas.jpeg": "/static/media/victimas.682a93ec221d7c713e87.jpeg",
+    "static/media/cobro.jpeg": "/static/media/cobro.66ede6f45d940ac6cf31.jpeg",
+    "static/media/publico.jpeg": "/static/media/publico.a9856ba715fe07490c61.jpeg",
+    "static/media/laboral.jpeg": "/static/media/laboral.b786a5840f2f0d18ae6e.jpeg",
+    "static/media/penal.jpeg": "/static/media/penal.c21f6444be5274586957.jpeg",
+    "static/media/familia.jpeg": "/static/media/familia.df746a679d10d257a240.jpeg",
+    "static/media/misionrm.jpeg": "/static/media/misionrm.6df43860c3a021300971.jpeg",
+    "static/media/visionrm.jpeg": "/static/media/visionrm.2af90620c7a347c1e0ef.jpeg",
+    "index.html": "/index.html",
+    "main.df23dc60.css.map": "/static/css/main.df23dc60.css.map",
+    "main.91db078e.js.map": "/static/js/main.91db078e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df23dc60.css",
+    "static/js/main.91db078e.js"
+  ]
+}
